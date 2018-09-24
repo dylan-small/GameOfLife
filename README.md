@@ -3,3 +3,5 @@
 ```
 java -jar [drag jar file here]
 ```
+###### Here is a GIF of the program in action!
+![](gol.gif)
