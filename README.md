@@ -3,5 +3,5 @@
 ```
 java -jar [drag jar file here]
 ```
-###### Here is a GIF of the program in action!
+###### Here is a Photo of the program in action!
 ![](UNO.png)
